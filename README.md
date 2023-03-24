@@ -1,4 +1,4 @@
-# AmbientModeDisabler
+# Ambient Mode Disabler
 
 A simple javascript snippet to turn off automatically the "Ambient Mode" option on youtube.
 
