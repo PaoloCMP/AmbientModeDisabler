@@ -15,6 +15,7 @@ function main() {
     }
 
     document.getElementsByClassName('ytp-settings-button')[0].click()
+    document.getElementsByClassName('ytp-settings-button')[0].click()
     setTimeout(ambientModeTurnOff, 100)
 }
 
