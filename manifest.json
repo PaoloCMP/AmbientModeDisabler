@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Ambient Mode Disabler",
     "description": "Turn Off the Ambient Mode in Youtube videos. Your CPU and GPU say thanks for this",
-    "version": "1.0",
+    "version": "0.2",
     "author": "PaoloCMP",  
   
     "content_scripts": [
